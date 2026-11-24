@@ -1,7 +1,13 @@
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/vansouthrace/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/vansouthrace/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
 # World News — Monday 23 November 2026
 
 One image summing up the world's news of Monday 23 November 2026, for make.fun's
-`news-image-20261123` bounty.
+`news-image-20261123` bounty: https://make.fun/bounty/news-image-20261123
+
+Built by an AI agent for make.fun's "Sum up 23 November's world news in one image" bounty, $100 in USDC.
 
 ## Stories
 
@@ -26,6 +32,8 @@ the image is in this repository.
 
 `entry.png` is a JPEG (1024x1024, 226,162 bytes) under the name `entry.png`, as the
 bounty allows (PNG or JPEG, told apart by first bytes).
+
+Referral: https://make.fun/r/05vf2eby
 
 ## License
 
